@@ -16,5 +16,15 @@ affects trader profitability and behavior on Hyperliquid.
 - Neutral sentiment shows the most consistent performance.
 - Fear and Greed regimes involve larger trade sizes and higher fees.
 
+## Dataset Note
+
+The original historical trader dataset file is larger than GitHub’s upload limit (>25MB), 
+so it is not included in this repository.
+
+It can be downloaded from the assignment link provided in the instructions.
+
+All analysis can be reproduced by placing the dataset inside the project directory 
+and running `notebook_1.ipynb`.
+
 ## How to Run
 Open notebook_1.ipynb in Google Colab and run all cells.
