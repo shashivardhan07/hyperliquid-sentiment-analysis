@@ -21,7 +21,8 @@ affects trader profitability and behavior on Hyperliquid.
 The original historical trader dataset file is larger than GitHub’s upload limit (>25MB), 
 so it is not included in this repository.
 
-It can be downloaded from the assignment link provided in the instructions.
+It can be downloaded from the below link:
+link-https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing 
 
 All analysis can be reproduced by placing the dataset inside the project directory 
 and running `notebook_1.ipynb`.
